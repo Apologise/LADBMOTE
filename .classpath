@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/搜狗高速下载/Jama-1.0.3.jar" sourcepath="D:/搜狗高速下载/Jama-1.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/搜狗高速下载/ujmp-complete-0.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Weka-3-8/weka.jar" sourcepath="C:/Program Files/Weka-3-8/weka-src.jar"/>
+	<classpathentry kind="lib" path="D:/360极速浏览器下载/SMOTE1.0.3/SMOTE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
